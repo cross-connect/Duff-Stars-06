@@ -1,0 +1,156 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://w3.org">
+<html>
+<head>
+<meta name="dcterms.created" content="mar, 10 ene 2023 15:50:45 GMT">
+	<link rel="shortcut icon" href="assets/favicon.png" type="image/x-icon" />
+	<title>Duff Stars | 06</title>
+<style type="text/css">
+<!--
+body {
+    background-color: rgb(0, 0, 0);
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    color: #333333;
+    margin-top: 20px;
+}
+a {
+    color: #0066CC;
+    text-decoration: none;
+    font-weight: bold;
+}
+a:hover {
+    color: #FF6600;
+    text-decoration: underline;
+}
+/* Efecto de botón Glossy/Cristal estilo 2006 */
+.boton-nav {
+    background: #7ABCFF;
+    background: linear-gradient(to bottom, #7ABCFF 0%, #4096EE 50%, #115FCD 51%, #60A7F0 100%);
+    color: #FFFFFF;
+    padding: 5px 10px;
+    border: 1px solid #003399;
+    font-size: 11px;
+    text-align: center;
+}
+.boton-nav a {
+    color: #FFFFFF;
+}
+/* Encabezado estilo Web 2.0 */
+.header-bg {
+    background: #00529B;
+    background: linear-gradient(to bottom, #00529B 0%, #0076D6 100%);
+    color: #FFFFFF;
+    padding: 20px;
+    text-shadow: 1px 1px 2px #000000;
+}
+.badge-nuevo {
+    background-color: #FF0000;
+    color: #FFFFFF;
+    font-size: 9px;
+    font-weight: bold;
+    padding: 1px 3px;
+}
+-->
+</style>
+</head>
+
+<body>
+
+<!-- Contenedor principal con ancho fijo para monitores de 1024x768 -->
+<table width="780" border="0" align="center" cellpadding="0" cellspacing="0" style="border: 1px solid #999999; background-color: #FFFFFF;">
+  <tr>
+
+   <!-- ENCABEZADO: LOGO POR ENCIMA DEL BANNER DE FONDO -->
+  <tr>
+    <td colspan="2" height="150" align="left" valign="middle" style="padding-left: 20px; background-image: url(https://i.ibb.co/jPYHDNMn/bannerwilliams.png); background-repeat: no-repeat; background-position: center;">
+        <!-- Tu logotipo transparente por encima -->
+        <!-- Reemplaza "tu-logo-transparente.png" por tu archivo (Tamaño aprox: 200x100) -->
+        <img src="https://i.ibb.co/gb44ZWqb/Duff-e-logo.png" width="200" height="40" alt="Logotipo" border="0">
+    </td>
+  </tr>
+  
+  <!-- BARRA DE NAVEGACIÓN -->
+  <tr bgcolor="#333333">
+    <td colspan="2" height="25" style="padding-left: 10px;">
+        <table border="0" cellspacing="2" cellpadding="0">
+          <tr>
+            <td class="boton-nav"><a href="#">Inicio</a></td>
+            <td class="boton-nav"><a href="#">Foro</a></td>
+            <td class="boton-nav"><a href="#">Galería</a></td>
+            <td class="boton-nav"><a href="#">Libro de Visitas</a></td>
+            <td class="boton-nav"><a href="https://cross-connect.github.io/DuffStars/Sources.html">Saves</a></td>
+          </tr>
+        </table>
+    </td>
+  </tr>
+  
+
+
+  <!-- CUERPO PRINCIPAL -->
+  <tr>
+    <!-- MENÚ LATERAL IZQUIERDO -->
+    <td width="180" valign="top" bgcolor="#F0F4F8" style="border-right: 1px dashed #999999; padding: 10px;">
+        <b>Navegación</b><br>
+        <hr size="1" color="#999999">
+        • <a href="#">Mi Perfil de MySpace</a><br>
+        • <a href="#">Subir Fotos (Photobucket)</a><br>
+        • <a href="#">Links Favoritos</a><br><br>
+        
+        <b>Estadísticas</b><br>
+        <hr size="1" color="#999999">
+        Usuarios online: 14<br>
+        Visitas totales:<br>
+        <img src="https://placeholder.com" alt="Contador de visitas" style="margin-top:5px;"><br><br>
+        
+        <center>
+          <marquee behavior="scroll" direction="left" scrollamount="3">¡Optimizado para Internet Explorer 6 y Firefox 1.5!</marquee>
+        </center>
+    </td>
+    
+    <!-- CONTENIDO CENTRAL -->
+    <td width="600" valign="top" style="padding: 15px;">
+        <h2><font color="#00529B">Lista de Contenidos Disponibles</font> <span class="badge-nuevo">UPDATED</span></h2>
+        <p>Selecciona una opción de la lista para explorar las novedades de nuestro portal Web 2.0:</p>
+        
+        <!-- Lista de viñetas con estilo de la época -->
+        <ul style="line-height: 18px; margin-bottom: 20px; padding-left: 20px;">
+          <li><b>Ace</b> <a href="https://shickat.online/">Shickat Online</a>.</li>
+          <li><b>Web</b> <a href="https://nfl24all.ir/">NFL24ALL</a>.</li>
+          <li><b>Ace</b> <a href="https://www.misterchire.com/inicio/ll/">Misterchire</a>.</li>
+          <li><b>Ace</b> <a href="https://search-ace.stream">Search Ace</a>.</li>
+          <li><b>[Fotografía]</b> <a href="#">Mis fotos en Photobucket</a> - Álbum actualizado de las vacaciones.</li>
+
+        </ul>
+        <table width="100%" border="0" cellspacing="0" cellpadding="5" style="border: 1px solid #D0D0D0; background-color: #FAFAFA;">
+          <tr bgcolor="#E0EBF5">
+            <td><b>Aviso del Webmaster (26 de Agosto, 2006)</b></td>
+          </tr>
+          <tr>
+            <td>
+                Para visualizar correctamente todos los enlaces de la lista, asegúrate de utilizar una resolución mínima de 1024x768 píxeles en tu monitor.
+            </td>
+          </tr>
+        </table>
+    </td>
+
+        
+
+  <!-- PIE DE PÁGINA -->
+  <tr bgcolor="#333333">
+    <td colspan="2" height="40" align="center" style="color: #CCCCCC; font-size: 10px;">
+        Copyright © 2006 MiSitioWeb. Todos los derechos reservados.<br>
+        Resolución recomendada: 1024x768 píxeles. Hecho con el Bloc de Notas.
+    </td>
+  </tr>
+</table>
+
+        <br>
+        <center>
+            <img src="https://placeholder.com" width="468" height="60" alt="Banner publicitario" border="1">
+        </center>
+    </td>
+  </tr>
+  
+
+</body>
+</html>
